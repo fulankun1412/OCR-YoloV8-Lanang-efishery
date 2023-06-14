@@ -35,13 +35,14 @@ docker-compose up
 
 ## Interface antar muka
 ### Input gambar
-![image](https://github.com/fulankun1412/OCR-YoloV8-Lanang-efishery/assets/16248869/a7f50875-e1e6-4e08-8526-c132a5bff0da)
+![image](https://github.com/fulankun1412/OCR-YoloV8-Lanang-efishery/assets/16248869/17e652aa-0310-45ea-b2fe-2a383882d397)
 
 ### Upload Gambar
-![image](https://github.com/fulankun1412/OCR-YoloV8-Lanang-efishery/assets/16248869/673c727f-96f8-45ff-8082-22431500a61a)
+![image](https://github.com/fulankun1412/OCR-YoloV8-Lanang-efishery/assets/16248869/c4cb990a-cb47-4e40-858d-48494d37e7ef)
 
 ### Hasil deteksi dan OCR dari Tabel
-![image](https://github.com/fulankun1412/OCR-YoloV8-Lanang-efishery/assets/16248869/65f57d21-9bc4-41cb-83ea-2baccefb1b96)
+![image](https://github.com/fulankun1412/OCR-YoloV8-Lanang-efishery/assets/16248869/50446e57-c1fd-4ba3-8fd2-dad60971d1b8)
+![image](https://github.com/fulankun1412/OCR-YoloV8-Lanang-efishery/assets/16248869/2bab2489-291e-4e11-955e-845e12e8f62a)
 
 ## Referensi 
 Dokumentasi YOLOv8: [Ultralytics YOLOv8](https://docs.ultralytics.com/modes/)
