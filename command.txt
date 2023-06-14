@@ -1,0 +1,2 @@
+docker build -t ocr-efishery:latest .
+docker run -p 8501:8501 -d --name ocr-serving ocr-efishery:latest

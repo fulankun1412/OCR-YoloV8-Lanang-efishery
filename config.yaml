@@ -1,0 +1,22 @@
+clearml-project-config:
+  project-name: Take Home Test Model-eFishery
+  task-name: OCR Detection and Text Extraction
+  id: 1e5d696217a2412383dcb3aaaba5b493
+  task-type: inference
+
+model-config:
+  YOLO-model: OCR-eFishery
+  published: True
+  tags: []
+  delimiter: delimiter/delimiter6.png
+  vision-key: notakei.json
+  image-size: 640
+  device-mode: cpu
+  save-mode: False
+  conf: 0.25
+  iou: 0.25
+  ALPHA: PpHmz0wtWytit8dmo45OfU6VlkLWqsPmmyNJ6DRqAKIA36DHU2UWAG77P2WQAKIA36DHU2UWBFI2K3EW
+  ZULU: AKIA36DHU2UWBFI2K3EWJVNvNaALnkhVeX8zF+Gdyn2icG1CFZ9CGVWmzAwrPpHmz0wtWytit8dmo45OfU6VlkLWqsPmmyNJ6DRq
+  TETHA: AKIA36DHU2UWBFI2K3EWPpHmz0wtWytit8dmo45OfU6VlkLWqsPmmyNJ6DRqAKIA36DHU2UWAG77P2WQAKIA36DHU2UWBFI2K3EW
+  CHARLIE: AKIA36DHU2UWBFI2K3EWJVNvNaALnkhVeX8zF+Gdyn2icG1CFZ9CGVWmzAwrPpHmz0wtWytit8dmo45OfU6VlkLWqsPmmyNJ6DRqPpHmz0wtWytit8dmo45OfU6VlkLWqsPmmyNJ6DRq
+  AWS-REGION: us-east-2
